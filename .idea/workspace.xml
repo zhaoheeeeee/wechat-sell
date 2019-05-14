@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7709b496-f20d-4f09-9693-a74713876366" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/weixin-sell-sell-master/sell/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Date2LongSerializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/serializer/Date2LongSerializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductInfoVO.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/VO/ProductInfoVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductVO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/VO/ProductVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResultVO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/VO/ResultVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CookieUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/CookieUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnumUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/EnumUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/JsonUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeyUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/KeyUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MathUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/MathUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResultVOUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/ResultVOUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>opsFor</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/controller/WechatController.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/controller/WeixinController.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/converter/OrderForm2OrderDTOConverter.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/converter/OrderMaster2OrderDTOConverter.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dataobject/OrderDetail.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dataobject/OrderMaster.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dataobject/ProductCategory.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dataobject/ProductInfo.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dataobject/SellerInfo.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dto/CartDTO.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dto/OrderDTO.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/enums/CodeEnum.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/enums/OrderStatusEnum.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/enums/PayStatusEnum.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/enums/ProductStatusEnum.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/enums/ResultEnum.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/exception/SellerAuthorizeException.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/exception/SellException.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/form/CategoryForm.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/form/OrderForm.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/form/ProductForm.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/handler/SellExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/repository/OrderDetailRepository.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/repository/OrderMasterRepository.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/repository/ProductCategoryRepository.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/repository/ProductInfoRepository.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/repository/SellerInfoRepository.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/BuyerService.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/PayService.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/PushMessageService.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/SellerService.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/WebSocket.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/BuyerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/CategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/PayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/PushMessageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/SellerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/CookieUtil.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/EnumUtil.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/JsonUtil.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/KeyUtil.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/MathUtil.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/ResultVOUtil.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/VO/ProductVO.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/VO/ResultVO.java" />
+        <option value="$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/VO/ProductInfoVO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/前端代码/前端代码/code/sell_fe_buyer/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/前端代码/前端代码/code/sell_fe_buyer/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spring Boot企业微信点餐系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring Boot企业微信点餐系统" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="websock&#9;PSI&#9;JAVA://com.imooc.service.WebSocket&#10;RedisTemplate&#9;PSI&#9;JAVA://org.springframework.data.redis.core.RedisTemplate" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="G:/SpringMVC_Spring_Mybatis-master/SpringMVC_Spring_Mybatis-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7709b496-f20d-4f09-9693-a74713876366" name="Default" comment="" />
+      <created>1555811945841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555811945841</updated>
+      <workItem from="1555811947581" duration="2753000" />
+      <workItem from="1555845950294" duration="626000" />
+      <workItem from="1556492063427" duration="3912000" />
+      <workItem from="1556503323289" duration="2124000" />
+      <workItem from="1557757186317" duration="677000" />
+      <workItem from="1557796466707" duration="827000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10919000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1536" height="832" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32949933" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26319352" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32949933" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26319352" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/controller/WeixinController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/converter/OrderForm2OrderDTOConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/converter/OrderMaster2OrderDTOConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dataobject/OrderDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dataobject/OrderMaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dataobject/ProductCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dataobject/ProductInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dataobject/SellerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dto/CartDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/dto/OrderDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/enums/CodeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/enums/OrderStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/enums/PayStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/enums/ProductStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/enums/ResultEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/exception/SellerAuthorizeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/exception/SellException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/form/CategoryForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/form/OrderForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/form/ProductForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/handler/SellExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/repository/OrderDetailRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/repository/OrderMasterRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/repository/ProductCategoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/repository/ProductInfoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/repository/SellerInfoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/BuyerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/PayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/PushMessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/SellerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/WebSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/BuyerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/PayServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/PushMessageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/service/impl/SellerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/CookieUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/EnumUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/JsonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/KeyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/MathUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/ResultVOUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/VO/ResultVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/utils/serializer/Date2LongSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/VO/ProductVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weixin-sell-sell-master/sell/src/main/java/com/imooc/VO/ProductInfoVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
